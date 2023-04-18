@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "tinyvec",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "1.6.0",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/Lokathor/tinyvec",
+    "Description": "`tinyvec` provides 100% safe vec-like data structures."
+  }
+]
